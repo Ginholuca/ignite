@@ -1,2 +1,2 @@
 # ignite
-a repo made to upload my Ignite apps
+a repo made to upload my Ignite apps.
